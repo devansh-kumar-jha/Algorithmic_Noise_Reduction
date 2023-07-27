@@ -1,5 +1,6 @@
 # Algorithmic Noise Reduction
 
-This repository contains the implementation of various ANC and Particle Filtering Algorithms for Noise Reduction and Cancelation.
+Noise Filtering Algorithms deals with removal of data nuisance and filters out inaccurate measurements using adaptive predictions and previous estimates of the filter. The filtered output is better than the values manually predicted and the values experimentally measured by the sensor.
 
-Particle Filtering Algorithms deals with removal of noise and filtering of bad measurements using manual predictions and previous estimates by the filter. The filtered output is generally better than the values manually predicted and the values experimentally measured.
+
+This repository contains the implementation of Particle Filtering Algorithms for Noise Reduction in the experimentally measured sensor outputs.
